@@ -12,3 +12,9 @@ We began with a motion detection flood light, stripped away all of the control e
 We used this simple Python script along with the OpenCV libraries to constantly check for motion in front of the flood light. When motion is 
 detected. The flood lights are switched on, a picture is captured then sent via email alert to the owner.
 
+To run, install Python - https://www.python.org/downloads/
+
+Download and install OpenCV libraries - http://opencv.org/downloads.html
+
+Run pythonsript.py
+
